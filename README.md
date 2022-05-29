@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @LimitMax or Taufiq Qurohman Ruki
-- 👀 I’m interested in web development and data analysis
-- 🌱 I’m currently learning S1 Informatic Engineering in Indonesia Computer University
-- 📫 How to reach me taufiqqurohman98@gmail.com or instagram @__limitmax
-
 <!---
 LimitMax/LimitMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Angel Jaime
 
 <h2 align="center">About me</h2>
 
@@ -29,13 +22,11 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		MERN stack (Personal goal)",
+		" 👋 Hi, I’m @LimitMax or Taufiq Qurohman Ruki",
+		" 👀 I’m interested in web development and data analysis",
+		" 🌱 I’m currently learning S1 Informatic Engineering in Indonesia Computer University",
+		" 📫 How to reach me taufiqqurohman98@gmail.com or instagram @__limitmax"
 	}
 }
 ```
@@ -97,12 +88,12 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LimitMaxons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 ---
 
-⭐️ From [@AnhellO](https://github.com/AnhellO)
+⭐️ From [@AnhellO](https://github.com/LimitMax
 
