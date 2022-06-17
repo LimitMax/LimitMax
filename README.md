@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @LimitMax or Taufiq Qurohman Ruki
 
-👀 I’m interested in web development and data analysis
+👀 I’m interested in Web Development and Data Engineering
 
 🌱 I’m currently learning S1 Informatic Engineering in Indonesia Computer University
 
