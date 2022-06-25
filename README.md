@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taufiq Qurohman Ruki</h1>
 <h3 align="center">A passionate Web Developer and Data Engineering from Indonesia</h3>
+<img align"right" alt="coding" width="400" src="https://ecpatindonesia.org/wp-content/uploads/2020/06/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limitmax&label=Profile%20views&color=0e75b6&style=flat" alt="limitmax" /> </p>
 
