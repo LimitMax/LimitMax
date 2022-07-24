@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Pandas, NodeJs, Data Engineering**
 
-- 💬 Ask me about **Web and Data Engineering**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **taufiqqurohman98@gmail.com**
 
