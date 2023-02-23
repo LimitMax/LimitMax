@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limitmax&label=Profile%20views&color=0e75b6&style=flat" alt="limitmax" /> </p>
 
-- 🌱 I’m currently learning **Pandas, NodeJs, Data Engineering**
+- 🌱 I’m currently learning **Data Analytics, Data Science,and Data Engineering**
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **taufiqqurohman98@gmail.com**
 
